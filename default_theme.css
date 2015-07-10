@@ -13,10 +13,21 @@ body {
   height: 120px;
   width: 804px; }
 
+.blackboxblue {
+  background-color: #000;
+  background-image: url("images/Rahmen_blue_dotti_lotti_120.png");
+  height: 120px;
+  width: 804px; }
+
 .dotsimage {
   background-image: url("images/Linie_orange_dotti_lotti.png");
   height: 30px;
-  background-color: #cfcb1a; }
+  background-color: #e8d64d; }
+
+.dotsimageblue {
+  background-image: url("images/Linie_blue_dotti_lotti.png");
+  height: 30px;
+  background-color: #e8d64d; }
 
 .blackboxspanrowone {
   color: white;
@@ -63,9 +74,22 @@ body {
   height: 250px;
   background-color: #fff; }
 
+.topmiddleLayoutBlue {
+  height: 220px;
+  background-color: #fff; }
+
 .bottomLayoutayout {
   height: 350px;
   background-color: #00ff90; }
+
+.dotsimagebottom {
+  background-image: url("images/Linie_orange_dotti_lotti.png");
+  height: 30px; }
+
+.dotsimagebottomblue {
+  background-image: url("images/Linie_blue_dotti_lotti.png");
+  height: 30px;
+  background-color: white; }
 
 .bottomLayoutayout_home {
   background-image: url("images/Stoff_gruen_Rubrik_Home.jpg"); }
